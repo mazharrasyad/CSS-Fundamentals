@@ -1,0 +1,7 @@
+/* No 1 */
+#avatar .deactivated{
+    filter: saturate(30%)
+    drop-shadow(5px 9px 2px gray)
+    blur(1px);
+    border-radius: 50%;
+}
